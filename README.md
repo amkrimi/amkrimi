@@ -42,16 +42,6 @@
 
 ---
 
-## 🏆 Certifications
-
-✔ Python – I.R.T.V.T.O
-
-✔ Django Web Development – I.R.T.V.T.O
-
-✔ HTML & CSS – I.R.T.V.T.O
-
-
-
 ## 🌍 Connect with Me
 
 <p align="left">
