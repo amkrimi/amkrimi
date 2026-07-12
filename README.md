@@ -48,14 +48,12 @@
 
 ### WordPress Ecosystem
 
-
 <p>
-<img src="https://skillicons.dev/icons?i=wordpress" />
-<img src="https://skillicons.dev/icons?i=woocommerce" />
-<img src="https://skillicons.dev/icons?i=seo" />
+<img src="https://cdn.simpleicons.org/wordpress" width="45"/>
+<img src="https://cdn.simpleicons.org/woocommerce" width="45"/>
+<img src="https://cdn.simpleicons.org/elementor" width="45"/>
+<img src="https://cdn.simpleicons.org/googleanalytics/E37400" width="45"/>
 </p>
-
-
 
 ### DevOps & Tools
 
