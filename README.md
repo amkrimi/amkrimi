@@ -31,16 +31,27 @@
 ### Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,cpp,js,html,css" />
+<img src="https://skillicons.dev/icons?i=python,js,ts,html,css," />
 </p>
 
-### Frameworks & Tools
+### Frameworks & Libraries
 
 <p>
-<img src="https://skillicons.dev/icons?i=django,bootstrap,git,github,vscode,linux,wordpress" />
+<img src="https://skillicons.dev/icons?i=django,react,tailwind,bootstrap,wordpress" />
 </p>
 
----
+### Backend & API Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=postgresql,mysql,sqlite" />
+</p>
+
+### DevOps & Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=linux,git,github,vscode" />
+</p>
+
 
 ## 🌍 Connect with Me
 
