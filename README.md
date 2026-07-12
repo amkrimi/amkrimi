@@ -31,7 +31,7 @@
 ### Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,js,ts,html,css," />
+<img src="https://skillicons.dev/icons?i=python,js,ts,html,css,cpp" />
 </p>
 
 ### Frameworks & Libraries
@@ -40,10 +40,19 @@
 <img src="https://skillicons.dev/icons?i=django,react,tailwind,bootstrap,wordpress" />
 </p>
 
-### Backend & API Development
+### Backend & Database
 
 <p>
 <img src="https://skillicons.dev/icons?i=postgresql,mysql,sqlite" />
+</p>
+
+### WordPress Ecosystem
+
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" width="45"/>
+<img src="https://cdn.worldvectorlogo.com/logos/woocommerce.svg" width="45"/>
+<img src="https://cdn.worldvectorlogo.com/logos/elementor-1.svg" width="45"/>
+<img src="https://cdn.worldvectorlogo.com/logos/google-search-console.svg" width="45"/>
 </p>
 
 ### DevOps & Tools
@@ -51,7 +60,6 @@
 <p>
 <img src="https://skillicons.dev/icons?i=linux,git,github,vscode" />
 </p>
-
 
 ## 🌍 Connect with Me
 
