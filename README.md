@@ -48,12 +48,14 @@
 
 ### WordPress Ecosystem
 
+
 <p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" width="45"/>
-<img src="https://cdn.worldvectorlogo.com/logos/woocommerce.svg" width="45"/>
-<img src="https://cdn.worldvectorlogo.com/logos/elementor-1.svg" width="45"/>
-<img src="https://cdn.worldvectorlogo.com/logos/google-search-console.svg" width="45"/>
+<img src="https://skillicons.dev/icons?i=wordpress" />
+<img src="https://skillicons.dev/icons?i=woocommerce" />
+<img src="https://skillicons.dev/icons?i=seo" />
 </p>
+
+
 
 ### DevOps & Tools
 
